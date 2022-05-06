@@ -4,7 +4,9 @@
     margin: 0%;
     font-family: 'Roboto', sans-serif;
 }
-
+p{
+    font-size: .9rem;
+}
 h1{
     font-size: 3.5rem;
     font-weight: 600;
@@ -45,7 +47,7 @@ body{
 .leftpart{
     /* background: lightcoral; */
     text-align: left;
-    width: max(300px,35%);
+    width: max(250px,30%);
     margin: .5rem;
     padding: .5rem;
 }
